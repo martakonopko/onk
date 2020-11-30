@@ -1,0 +1,12 @@
+Variable;Odds ratio;95% CI
+Angioplasyka_balonowa;0,5722;0.2148 to 1.5246
+below_knee;1,4805;0.4993 to 4.3902
+Cukrzyca_t._II;1,0199;0.4170 to 2.4941
+Embolizacja_dalszych_gałęzi;0,8226;0.1642 to 4.1205
+Implantacja_stentu;2,5451;0.9552 to 6.7813
+Nikotynizm;2,4823;0.9129 to 6.7501
+Trombektomia_mechaniczna;2,654;0.6512 to 10.8168
+Tromboliza_actyliza;5,376;1.4315 to 20.1892
+Wiek_65;0,712;0.3180 to 1.5941
+Udrożnienie_w_angiografii;0,2374;0.0652 to 0.8642
+czy_zakrzepica_była_w_bajpasie;1,5912;0.6905 to 3.6668
