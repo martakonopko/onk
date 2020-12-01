@@ -1,12 +1,12 @@
 Variable;Odds ratio;95% CI
-Angioplasyka_balonowa;5,4328;0.8431 to 35.0079
-below_knee;0,112;0.0076 to 1.6504
-Cukrzyca_t._II;1,5729;0.4217 to 5.8669
-Embolizacja_dalszych_gałęzi;0,8415;0.0905 to 7.8200
-Implantacja_stentu;0,667;0.1457 to 3.0528
+Angioplasyka balonowa;5,4328;0.8431 to 35.0079
+Zakrzepica poniżej kolana;0,112;0.0076 to 1.6504
+Cukrzyca t.II;1,5729;0.4217 to 5.8669
+Embolizacja dalszych gałęzi;0,8415;0.0905 to 7.8200
+Implantacja stentu;0,667;0.1457 to 3.0528
 Nikotynizm;2,313;0.3961 to 13.5057
-Trombektomia_mechaniczna;12,2018;0.7288 to 204.2779
-Tromboliza_actyliza;9,1712;0.9582 to 87.7830
-Wiek_65;1,0101;0.2529 to 4.0348
-Udrożnienie_w_angiografii;0,0637;0.0072 to 0.5662
-czy_zakrzepica_była_w_bajpasie;0,5813;0.1319 to 2.5626
+Trombektomia mechaniczna;12,2018;0.7288 to 204.2779
+Tromboliza dotętnicza;9,1712;0.9582 to 87.7830
+Wiek > 65;1,0101;0.2529 to 4.0348
+Udrożnienie w angiografii;0,0637;0.0072 to 0.5662
+Zakrzepica w bajpasie;0,5813;0.1319 to 2.5626
